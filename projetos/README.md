@@ -19,4 +19,4 @@ Os projetos principais do portfólio. São os primeiros que um recrutador vai ab
 8. **Conclusões**
 9. **README** claro, que alguém de fora consiga seguir
 
-> Os projetos que fizeres no Nível 2 ([Cyber SOC](https://github.com/northtech-cyber/cyber-soc)), como regras de deteção ou um home lab, também vêm para aqui.
+> Os projetos que fizeres no Nível 2, como regras de deteção ou um home lab, também vêm para aqui.
