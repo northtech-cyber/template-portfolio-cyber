@@ -1,0 +1,26 @@
+# Segredos — nunca fazer commit
+.env
+*.env
+*.key
+*.pem
+*secret*
+*credentials*
+
+# Ficheiros de laboratório perigosos ou pesados
+*.pcap
+*.pcapng
+*.exe
+*.dll
+*.bin
+*.zip
+*.7z
+*.eml
+malware/
+samples/
+
+# Sistema
+.DS_Store
+Thumbs.db
+__pycache__/
+.vscode/
+.idea/
