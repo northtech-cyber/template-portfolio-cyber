@@ -1,15 +1,22 @@
-# 🛠️ Projetos
+# ⭐ Projetos
 
-Trabalho que vai além dos exercícios: regras de deteção, scripts, home lab, ferramentas.
+Os projetos principais do portfólio. São os primeiros que um recrutador vai abrir, por isso merecem o melhor README.
 
-Cada projeto tem a sua pasta com um `README.md` que explica:
-
-- **Problema:** o que resolve?
-- **Como funciona:** arquitetura, diagrama se ajudar
-- **Como usar:** passos para reproduzir
-- **Resultados:** prints, exemplos de saída
-- **Próximos passos:** o que melhorarias
-
-| Projeto | Descrição | Tecnologias |
+| Projeto | Fase | Pasta |
 |---|---|---|
-| `deteccoes/` | Regras Sigma mapeadas ao MITRE ATT&CK | Sigma, sigma-cli |
+| **Investigação de Incidente** | 8 | `01-investigacao-incidente/` |
+| **Analisador de Logs com Python** | 9 | `02-analisador-de-logs/` |
+
+## Cada projeto deve incluir
+
+1. **Objetivo:** o que o projeto resolve
+2. **Cenário:** a situação de partida
+3. **Ambiente utilizado:** VMs, sistemas, ferramentas
+4. **Processo de investigação:** passo a passo, com raciocínio
+5. **Ferramentas utilizadas**
+6. **Evidências:** screenshots, excertos de logs, saídas de comandos
+7. **Resultados**
+8. **Conclusões**
+9. **README** claro, que alguém de fora consiga seguir
+
+> Os projetos que fizeres no Nível 2 ([Cyber SOC](https://github.com/northtech-cyber/cyber-soc)), como regras de deteção ou um home lab, também vêm para aqui.
